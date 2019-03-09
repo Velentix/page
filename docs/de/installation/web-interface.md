@@ -1,4 +1,4 @@
-# Web Interface
+# Webinterface
 
 ## Einleitung
 
